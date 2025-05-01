@@ -41,4 +41,4 @@ This project demonstrates a fake news detection system that classifies news head
 
 ## Demo Video
 
-[Demo Video](url)
+[Demo Video](https://drive.google.com/drive/folders/1t-Z3-YhWVh7_Qn9bn6Ze5P7XiViDvgwk?usp=sharing)
